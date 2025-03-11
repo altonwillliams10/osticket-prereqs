@@ -33,8 +33,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setup a Virtual Machine in Azure
 - Install the osTicket requirements
 - Install osTicket itself
-- 
-- Item 5
+- IIS (Internet Information Services) – Used as a web server
+- PHP – Required for osTicket to function
+- MySQL - (MySQL Server) – Database for storing tickets
+- osTicket Download Package
 
 <h2>Installation Steps</h2>
 
