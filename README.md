@@ -30,10 +30,6 @@ This portfolio outlines the prerequisites and installation of the open-source he
 - Setup a Virtual Machine in Azure
 - Install the osTicket requirements
 - Install osTicket itself
-- IIS (Internet Information Services) – Used as a web server
-- PHP – Required for osTicket to function
-- MySQL - (MySQL Server) – Database for storing tickets
-- osTicket Download Package
 
 <h2>Installation Steps</h2>
 
