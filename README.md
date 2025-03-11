@@ -44,15 +44,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/kJ7Z3FO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the screenshot above you will see me navigating to the top left of the screenshot to create a new virtual machine.
+In the screenshot above you will see me navigating to the top left of the screenshot to create a new virtual machine. By using a Microsoft Azure VM I will be utilizing a dedicated environment to install and configure osTicket without affecting my personal computer.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oRuoAQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lQag8Fm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the screenshot above you'll see that the virtual machine was successfully deployed/created.
+In the screenshot above you'll see I Installed IIS because without IIS, there’s no way to access the ticketing system via a web browser.
+After enabling IIS, you can open http://localhost/osticket/setup/ and start the installation!
 </p>
 <br />
 
