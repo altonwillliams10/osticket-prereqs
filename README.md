@@ -12,9 +12,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
+☁️ Cloud Platform:
+
+
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+
+🌐 Remote Access & Web Services:
+
+
+- Remote Desktop Protocol (RDP) (to connect to the VM)
+
+- Internet Information Services (IIS) (Web Server for osTicket)
 
 <h2>Operating Systems Used </h2>
 
