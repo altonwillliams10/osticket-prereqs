@@ -34,10 +34,10 @@ This portfolio outlines the prerequisites and installation of the open-source he
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/kJ7Z3FO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rJy2C7F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the screenshot above you will see me navigating to the top left of the screenshot to create a new virtual machine. By using a Microsoft Azure VM I will be utilizing a dedicated environment to install and configure osTicket without affecting my personal computer.
+In the screenshot above you will see me creating a virtual machine where I will click the blue button named "REVIEW + CREATE" on the buttom. By using a Microsoft Azure VM I will be utilizing a dedicated environment to install and configure osTicket without affecting my personal computer.
 </p>
 <br />
 
